@@ -1,0 +1,13 @@
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\Geometrie\curs2\bin\Debug\netcoreapp3.1\curs2.exe
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\Geometrie\curs2\bin\Debug\netcoreapp3.1\curs2.deps.json
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\Geometrie\curs2\bin\Debug\netcoreapp3.1\curs2.runtimeconfig.json
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\Geometrie\curs2\bin\Debug\netcoreapp3.1\curs2.runtimeconfig.dev.json
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\Geometrie\curs2\bin\Debug\netcoreapp3.1\curs2.dll
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\Geometrie\curs2\bin\Debug\netcoreapp3.1\curs2.pdb
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\Geometrie\curs2\obj\Debug\netcoreapp3.1\curs2.csprojAssemblyReference.cache
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\Geometrie\curs2\obj\Debug\netcoreapp3.1\curs2.AssemblyInfoInputs.cache
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\Geometrie\curs2\obj\Debug\netcoreapp3.1\curs2.AssemblyInfo.cs
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\Geometrie\curs2\obj\Debug\netcoreapp3.1\curs2.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\Geometrie\curs2\obj\Debug\netcoreapp3.1\curs2.dll
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\Geometrie\curs2\obj\Debug\netcoreapp3.1\curs2.pdb
+C:\Users\Andrei\source\repos\Cociuba-Nicusor\Geometrie\curs2\obj\Debug\netcoreapp3.1\curs2.genruntimeconfig.cache
